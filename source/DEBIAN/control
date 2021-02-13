@@ -1,0 +1,6 @@
+Package: myalerts-login
+Version: 1.0.0
+Architecture: all
+Depends: bash,coreutils
+Maintainer: Pesti Tamás <ptamas2002@gmail.com>
+Description: Send email alert on SSH or direct login attempt.
